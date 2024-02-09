@@ -2,7 +2,7 @@
 
 ## Quiz Javascript 
  Ministrado pela NLW Expert
-## Tecnologia Usadas
+## Tecnologias Usadas
 
 - HTML
 - CSS
