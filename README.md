@@ -1,2 +1,9 @@
 # quiz-nlw
-Desafio proposto pela NLW EXPERT, uma criação de um quiz com HTML, CSS E JavaScript.
+
+## Quiz Javascript- Ministrado pela NLW Expert
+## Tecnologia Usadas
+
+- HTML
+- CSS
+- JavaScript
+- GitHub
