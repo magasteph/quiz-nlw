@@ -1,6 +1,7 @@
 # quiz-nlw
 
-## Quiz Javascript- Ministrado pela NLW Expert
+## Quiz Javascript 
+ Ministrado pela NLW Expert
 ## Tecnologia Usadas
 
 - HTML
