@@ -1,4 +1,4 @@
-# quiz-nlw
+# QUIZ JAVASCRIPT
 
 ## Quiz Javascript 
  Ministrado pela NLW Expert
